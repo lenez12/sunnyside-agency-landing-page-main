@@ -194,17 +194,7 @@ img {
 		position: absolute;
 		bottom: 99%;
 		right: 0;
-	}
-
-	.triangle-5 {
-		$width: 20px;
-		width: $width;
-		height: calc($width/2);
-		border-top: solid calc($width/2) $white-color;
-		border-left: solid calc($width/2) transparent;
-		border-right: solid calc($width/2) transparent;
-		position: absolute;
-		top: 100%;
+		display: block;
 	}
 }
 

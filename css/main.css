@@ -147,15 +147,7 @@ img {
   position: absolute;
   bottom: 99%;
   right: 0;
-}
-.header .triangle-5 {
-  width: 20px;
-  height: 10px;
-  border-top: solid 10px hsl(0deg, 0%, 100%);
-  border-left: solid 10px transparent;
-  border-right: solid 10px transparent;
-  position: absolute;
-  top: 100%;
+  display: block;
 }
 
 .hero {
