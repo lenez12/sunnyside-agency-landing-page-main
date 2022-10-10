@@ -32,8 +32,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Source Code URL: [Source Github](https://github.com/lenez12/loopstudios-landing-page-main.git)
-- Live Site URL: [Demo Live](https://lenez-loopstudios.netlify.app/)
+- Source Code URL: [Source Github](https://github.com/lenez12/sunnyside-agency-landing-page-main.git)
+- Live Site URL: [Demo Live](https://lenez-sunny.netlify.app/)
 
 ## My process
 
